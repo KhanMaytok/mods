@@ -1,4 +1,6 @@
-;; One-Handed Melee - Light Armor
+;=============================
+;======= Light Armour=========
+;=============================
 ; Bandit
 
 player.placeatme 00039cf7;
