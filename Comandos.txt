@@ -1,0 +1,66 @@
+;; Bandidos con Armadura Ligera
+; bandidos genéricos
+
+player.placeatme 00039cf7;
+player.placeatme 00039cf6;
+player.placeatme 000c3ca0;
+player.placeatme 00039cf5;
+player.placeatme 0001bcd8;
+player.placeatme 00039cfa;
+player.placeatme 00039cf8;
+
+;Bandidos fuera de la ley
+
+player.placeatme 00039cfe
+player.placeatme 00039cff
+player.placeatme 000c3ca2
+player.placeatme 00039d00
+player.placeatme 00039d01
+player.placeatme 00039d03
+player.placeatme 00039d04
+player.placeatme 00039d05
+
+; Bandit thug
+
+player.placeatme 00039d06
+player.placeatme 00039d07
+player.placeatme 000c3ca4
+player.placeatme 00039d08
+player.placeatme 00039d09
+player.placeatme 00039d0b
+player.placeatme 00039d0c
+player.placeatme 00039d0
+
+; Bandit Highwayman
+
+player.placeatme 00039d0e
+player.placeatme 00039d0f
+player.placeatme 000c3ca6
+player.placeatme 00039d10
+player.placeatme 00039d11
+player.placeatme 00039d13
+player.placeatme 00039d14
+player.placeatme 00039d15
+
+;Bandit Plunderer
+player.placeatme 00039d16
+player.placeatme 00039d17
+player.placeatme 000c3ca8
+player.placeatme 00039d18
+	
+player.placeatme 00039d19
+player.placeatme 00039d1b
+player.placeatme 00039d1c
+player.placeatme 00039d1d
+
+;Bandit Marauder
+
+player.placeatme 00039d1e
+player.placeatme 00039d1f
+player.placeatme 000c3caa
+player.placeatme 00039d20
+	
+player.placeatme 00039d21
+player.placeatme 00039d2
+player.placeatme 00039d24
+player.placeatme 00039d25
