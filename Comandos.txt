@@ -1,5 +1,5 @@
-;; Bandidos con Armadura Ligera
-; bandidos genéricos
+;; One-Handed Melee - Light Armor
+; Bandit
 
 player.placeatme 00039cf7;
 player.placeatme 00039cf6;
@@ -9,8 +9,7 @@ player.placeatme 0001bcd8;
 player.placeatme 00039cfa;
 player.placeatme 00039cf8;
 
-;Bandidos fuera de la ley
-
+;Outlaw Bandit
 player.placeatme 00039cfe
 player.placeatme 00039cff
 player.placeatme 000c3ca2
@@ -21,7 +20,6 @@ player.placeatme 00039d04
 player.placeatme 00039d05
 
 ; Bandit thug
-
 player.placeatme 00039d06
 player.placeatme 00039d07
 player.placeatme 000c3ca4
@@ -32,7 +30,6 @@ player.placeatme 00039d0c
 player.placeatme 00039d0
 
 ; Bandit Highwayman
-
 player.placeatme 00039d0e
 player.placeatme 00039d0f
 player.placeatme 000c3ca6
@@ -54,13 +51,68 @@ player.placeatme 00039d1c
 player.placeatme 00039d1d
 
 ;Bandit Marauder
-
 player.placeatme 00039d1e
 player.placeatme 00039d1f
 player.placeatme 000c3caa
 player.placeatme 00039d20
-	
 player.placeatme 00039d21
 player.placeatme 00039d2
 player.placeatme 00039d24
 player.placeatme 00039d25
+
+;=============================
+;======= Heavy Armour=========
+;=============================
+
+; Bandit	
+player.placeatme 0003de87
+player.placeatme 0003de88
+player.placeatme 0003de89
+player.placeatme 0003de8a
+player.placeatme 0003de8b
+player.placeatme 0003de8c
+player.placeatme 0003de8d
+
+; Bandit Outlaw 	5 	
+player.placeatme 0003de8e
+player.placeatme 0003de8f
+player.placeatme 0003de90
+player.placeatme 0003de91
+player.placeatme 0003de92
+player.placeatme 0003de93
+player.placeatme 0003de94
+; Bandit Thug 	9 	
+player.placeatme 0003de95
+player.placeatme 0003de96
+player.placeatme 0003de97
+player.placeatme 0003de98
+player.placeatme 0003de99
+player.placeatme 0003de9a
+player.placeatme 0003de9b
+
+; Bandit Highwayman 	14 	
+player.placeatme 0003de9d
+player.placeatme 0003de9e
+player.placeatme 0003de9f
+player.placeatme 0003dea0
+player.placeatme 0003dea1
+player.placeatme 0003dea2
+player.placeatme 0003dea3
+
+;Bandit Plunderer 	19 	
+player.placeatme 0003dea9
+player.placeatme 0003deaa
+player.placeatme 0003deab
+player.placeatme 0003deac
+player.placeatme 0003dead
+player.placeatme 0003deae
+player.placeatme 0003deaf
+
+;Bandit Marauder 	25 	
+player.placeatme 0003deb0
+player.placeatme 0003deb1
+player.placeatme 0003deb2
+player.placeatme 0003deb3
+player.placeatme 0003deb4
+player.placeatme 0003deb5
+player.placeatme 0003deb6
