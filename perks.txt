@@ -1,0 +1,108 @@
+;Archery
+
+player.addperk 000babed 		
+player.addperk 0007934a 	
+player.addperk 0007934b 	
+player.addperk 0007934d 	
+player.addperk 00079354 	
+player.addperk 00105f1c 	
+player.addperk 00105f1e 	
+player.addperk 00105f1f 	
+player.addperk 00051b12 	
+player.addperk 00058f63 	
+player.addperk 00058f61 	
+player.addperk 00058f62 	
+player.addperk 00105f19 	
+player.addperk 00103ada 	
+player.addperk 00103adb 
+player.addperk 00058f64
+
+; Block
+
+player.addperk 000bccae 		
+player.addperk 00079355 	
+player.addperk 00079356 	
+player.addperk 00079357 	
+player.addperk 00079358 
+
+; One handed
+
+player.addperk 000babe4 		
+player.addperk 00079343 	
+player.addperk 00079342 	
+player.addperk 00079344 	
+player.addperk 00079345 	
+player.addperk 0005f56f 	
+player.addperk 000c1e90 		
+player.addperk 000c1e91 	 	
+player.addperk 0005f592 	
+player.addperk 00106256 	
+player.addperk 00106258 	
+player.addperk 00052d50 	
+player.addperk 000cb406 	
+player.addperk 0003af81 	
+player.addperk 0003afa6 	
+player.addperk 0003fffa 	
+player.addperk 000c3678 	
+player.addperk 000c3679	
+
+; Smithing
+
+player.addperk 000cb40d
+
+; Alchemy
+
+player.addperk 000be127 		
+player.addperk 000c07ca 	
+player.addperk 000c07cb 	
+player.addperk 000c07cc 	
+player.addperk 000c07cd 	
+player.addperk 00058215 	
+player.addperk 00058216 	
+player.addperk 00058218 	
+player.addperk 00105f2a 	
+player.addperk 00105f2b 	
+player.addperk 00058217 	
+player.addperk 00105f2f 	
+player.addperk 00105f2e 	
+
+; Light armor
+
+player.addperk 000be123
+
+; Lockpicking	
+
+player.addperk 000f392a
+player.addperk 000be125
+player.addperk 00106259
+player.addperk 00107830
+player.addperk 000c3680
+
+; Pickpocket
+
+player.addperk 000be124
+player.addperk 00018e6a
+player.addperk 00018e6b
+player.addperk 00058202
+player.addperk 00058204
+player.addperk 000d79a0
+player.addperk 00058201
+player.addperk 00058205
+player.addperk 00096590
+player.addperk 00105f28
+
+; Sneak
+
+player.addperk 000be126 		
+player.addperk 000c07c6 	
+player.addperk 000c07c7 	
+player.addperk 000c07c8 	
+player.addperk 000c07c9 	
+player.addperk 00058210 	
+player.addperk 001036f0 	
+player.addperk 00058211 	
+player.addperk 00058213 	
+player.addperk 0005820c 	
+player.addperk 00105f23 	
+player.addperk 00105f24 	
+player.addperk 00058214
